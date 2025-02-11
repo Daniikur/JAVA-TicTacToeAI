@@ -18,7 +18,12 @@ A Java-based Tic Tac Toe game with a GUI using Swing and an AI opponent powered 
 - Sound effects
 - UI enhancements
 
-  ![Tic Tac Toe Screenshot](image.png)
+  ![Tic Tac Toe Screenshot](https://github.com/Daniikur/JAVA-TicTacToeAI/blob/71aead35ae9504e4f4bcf7145e5cb24fda3d73db/Screenshot%202025-02-11%20123237.png)
+
+  
+
+
+  
 
 
 Enjoy playing! 🎉
